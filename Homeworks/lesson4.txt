@@ -45,6 +45,8 @@ for symb_1 in my_string_1:
 	for symb_2 in my_string_2:
 		print(symb_1 + symb_2)
 
+
+
 Результат:
 "13"	# перебирается все элементы из my_string_2 для элемента "1" из my_string_1
 "14"
