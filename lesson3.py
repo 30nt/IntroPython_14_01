@@ -77,3 +77,4 @@ if value.isdigit():
 
     result = value * 2 if not value % 5 else 0
     print(result)
+# TEST file write
