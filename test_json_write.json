@@ -1,13 +1,5 @@
 {
-  "test_list": [
-    1,
-    2,
-    3,
-    4,
-    5
-  ],
-  "new": {
-    "qwerty": 11,
-    "foo": "\u043c\u0430\u043c\u0430"
-  }
+  "test": "qwerty",
+  "new": "text",
+  "text": "dhshdkzxkzxvzxvgjxgvxzb"
 }
